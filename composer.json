@@ -1,0 +1,18 @@
+{
+    "name": "hp/ui",
+    "autoload": {
+        "psr-4": {
+            "Hp\\Ui\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Aditya-Gitcode",
+            "email": "adityasoreng85@gmail.com"
+        }
+    ],
+    "require": {
+        "tecnickcom/tcpdf": "*",
+        "cloudframework-io/tcpdi_cf": "^1.0"
+    }
+}
